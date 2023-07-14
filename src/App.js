@@ -10,10 +10,10 @@ const App = () => {
       <Confetti />
       <header className="App-header">
         <h1 style={{ marginBottom: "0px" }}>
-          Congratulations!!!
+          Congratulations Dariem!!!
         </h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
-          I ran my first container.
+          You have ran your first container image on Docker.
         </p>
         <div>
           <a target="_blank" href={"https://twitter.com/intent/tweet?text=" + shareMessage + "&url=" + shareLink} class="fa fa-twitter" rel="noopener noreferrer"> </a>
